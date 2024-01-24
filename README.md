@@ -17,9 +17,6 @@ The ticket Booking system is a web-based application that allows users to book T
 **Client:** HTML, CSS ,Javascript,React.js
 
 
-## Video Presentation 
-
-**Video Link** -  https://drive.google.com/file/d/1aqzvgL7D3sF2CXU-8f9w-4rIjpt80VTw/view?usp=sharing
 
 ## Deployment
 
@@ -38,7 +35,7 @@ The ticket Booking system is a web-based application that allows users to book T
 ###  Run Locally Clone this Project
 
 ```
-https://github.com/bire210/ticketBookingApp.git
+[https://github.com/bire210/ticketBookingApp.git](https://github.com/Realyyt/BUS-TICKET-APP.git)
 ```
 ### Runs the project in the development mode
 

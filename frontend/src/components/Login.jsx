@@ -51,7 +51,7 @@ try {
         <input type="password" value={password} placeholder='Enter Password' onChange={handlePasswordChange} />
       </label>
       <button type="submit">Login</button>
-      <Link to="/register"><button>If You are not Registered</button></Link>
+      <Link to="/register"><button>Signup</button></Link>
     </form>
    </>
   );

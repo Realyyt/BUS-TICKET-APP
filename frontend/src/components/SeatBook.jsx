@@ -62,7 +62,7 @@ const SeatBook = () => {
       <div>
         <h1 className="Heading">Seat Available</h1>
         <Link to="/cart">
-          <button style={{ fontSize: "30px", marginLeft: "130px" }}>
+          <button style={{ fontSize: "20px", marginLeft: "120px" }}>
             My Cart
           </button>
         </Link>

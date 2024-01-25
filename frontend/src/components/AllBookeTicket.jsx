@@ -61,8 +61,8 @@ const AllBookeTicket = () => {
   return (
     <div>
        <div><h1 className="Heading">All Booked Tickets</h1>
-      <Link to="/cart"><button style={{fontSize:"30px",marginLeft:"130px"}}>go TO My cart</button></Link>
-      <Link to="/seatbook"><button style={{fontSize:"30px",marginLeft:"130px"}}>Check Seat Availble</button></Link>
+      <Link to="/cart"><button style={{fontSize:"20px",width:"180px",marginLeft:"130px"}}>My cart</button></Link>
+      <Link to="/seatbook"><button style={{fontSize:"20px",width:"200px",marginLeft:"130px"}}>Check Seat Availble</button></Link>
       </div>
       <div className="Table">
         {loading && (
@@ -97,7 +97,7 @@ const AllBookeTicket = () => {
                   <td>{item.seatNo}</td>
                   <td>
                     <div className="action">
-                    <Link to="/pay"><button className="book">Pay Now</button></Link>
+                    <Link to="/pay"><button className="book" style={{width:"120px"}}>Pay Now</button></Link>
                       
                       <button
                         className="cancel"

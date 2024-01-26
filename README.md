@@ -35,7 +35,7 @@ The ticket Booking system is a web-based application that allows users to book T
 ###  Run Locally Clone this Project
 
 ```
-[https://github.com/bire210/ticketBookingApp.git](https://github.com/Realyyt/BUS-TICKET-APP.git)
+(https://github.com/Realyyt/BUS-TICKET-APP.git)
 ```
 ### Runs the project in the development mode
 

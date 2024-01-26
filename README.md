@@ -43,6 +43,12 @@ The ticket Booking system is a web-based application that allows users to book T
 
 ### Search bus from Ranchi to Bokaro only
 
+### User Login
+
+```
+email: emmanuelumaru37@gmail.com
+password: 123456
+```
 
 ## NPM Packages
 <p align = "center">

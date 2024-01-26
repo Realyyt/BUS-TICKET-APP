@@ -113,16 +113,7 @@ DELETE `http://localhost:8080/api/bus/book/${id}
 
 
 
- ### USERS DATA/ LOGIN DATA
 
-```javascript
-{
-  email:birendra@gmail.com
-  password:123456
-}
-
-
-```
 
 
 
@@ -133,4 +124,4 @@ DELETE `http://localhost:8080/api/bus/book/${id}
 | :-------: | 
 
  
- [@bire210](https://github.com/bire210) 
+ [@realyyt](https://github.com/realyyt) 

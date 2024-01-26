@@ -89,8 +89,8 @@ const Cart = () => {
   return (
     <div>
       <div><h1 className="Heading">Ticket in My Cart</h1>
-      <Link to="/bookedticket"><button style={{fontSize:"30px",marginLeft:"130px"}}>see Booked Ticket</button></Link>
-      <Link to="/seatbook"><button style={{fontSize:"30px",marginLeft:"130px"}}>Check Seat Availble</button></Link>
+      <Link to="/bookedticket"><button style={{fontSize:"20px",width:"180px",marginLeft:"130px"}}>Booked Ticket's</button></Link>
+      <Link to="/seatbook"><button style={{fontSize:"20px",width:"200px",marginLeft:"130px", }}>Check Seat Availble</button></Link>
       </div>
       
       <div className="Table">

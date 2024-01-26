@@ -63,7 +63,7 @@ alert("Register is done")
         {show ? 'Hide' : 'Show'}
       </button>
       <button type="submit">Register</button>
-      <Link to="/login"><button>If You are already Register</button></Link>
+      <Link to="/login"><button>Already Registerd?</button></Link>
     </form>
     
    </>

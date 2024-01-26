@@ -71,7 +71,7 @@ const SearchForm = () => {
         To:
         <input type="text" value={toCity} onChange={handleToCityChange} />
       </label>
-      <button type="submit">Search</button>
+      <button type="submit" class="firstsearch">Search</button>
     </form>
     <div className="Table">
     {

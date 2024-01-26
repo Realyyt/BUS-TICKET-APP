@@ -30,7 +30,7 @@ const handleSubmit=(e)=>{
         cvv:
         <input type="password" value={cvv} placeholder='CVV' onChange={(e)=>{setCcv(e.target.value)}} />
       </label>
-      <button type="submit">Pay</button>
+      <button type="submit" >Pay</button>
       
     </form>
    
